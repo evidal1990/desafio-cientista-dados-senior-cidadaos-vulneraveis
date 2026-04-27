@@ -1,0 +1,5 @@
+# Dados locais (não versionar arquivos grandes)
+data/*
+!data/.gitkeep
+
+.venv/
