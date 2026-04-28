@@ -35,6 +35,12 @@ packaging==26.2
 pandas==2.3.3
 pandas-gbq==0.35.0
 pandavro==1.9.0
+matplotlib
+seaborn
+geopandas
+geobr
+jupyterlab
+ipykernel
 propcache==0.4.1
 proto-plus==1.27.2
 protobuf==6.33.6
